@@ -63,7 +63,7 @@ Result:  dummy -> 1 -> 2 -> 3 -> 4 -> 5
 ```
 
 ### Performance
-![LeetCode Submission Result](https://github.com/syntherat/teachers-day-vitb/blob/main/Day1/Problem2/img.png)
+![LeetCode Submission Result](https://github.com/syntherat/teachers-day-vitb/blob/main/Day1/Problem%202/img.png)
 
 **Stats:**
 - ✅ **Accepted**

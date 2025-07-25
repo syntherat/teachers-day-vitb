@@ -46,7 +46,7 @@ Output: [0,1]
 3. Return the indices when sum equals target
 
 ### Performance
-![LeetCode Submission Result](https://github.com/syntherat/teachers-day-vitb/blob/main/Day1/img.png)
+![LeetCode Submission Result](https://github.com/syntherat/teachers-day-vitb/blob/main/Day1/Problem%201/img.png)
 
 **Stats:**
 - ✅ **Accepted**
